@@ -16,7 +16,7 @@
 > This file is the model training file.
 
 
-### How to run CS-LightGCL
+### How to run MPGCF
 * command
 
 `python main.py `
